@@ -6,6 +6,13 @@ This is a university project completed at the University of Western Australia fo
 ## Aim
 To design, simulate and layout an 8 bit ripple carry adder using Cadence Virtuoso.
 
+## Schematic
+![Alt text](fulladdertopo.JPG.png?raw=true "Title")
+
 ## Layout
 ### Single Bit Adder
 ![Alt text](/falayb.png?raw=true "Title")
+
+### 8 Bit Adder
+
+![Alt text](/8bit.png?raw=true "Title")
